@@ -1,2 +1,2 @@
 # paper
-goometry paper
+geometry paper
